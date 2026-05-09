@@ -208,6 +208,4 @@ MIT License
 
 ## 👤 Author
 
-- Trevon Woods
-- Aima Ayaz
 - Waseem Basit
